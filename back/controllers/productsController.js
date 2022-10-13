@@ -110,6 +110,6 @@ function verProductoPorID(id){
 
 //Probamos el metodo con un id
 
-//verProductoPorID('63456e45a1feda5e6231cd1f');
+//verProductoPorID('6345bbc3a1feda5e6231cd25');
 
 
